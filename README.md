@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, My name is Nguyễn Đức Điệp</h1>
+<h1 align="center"> My name is Nguyễn Đức Điệp</h1>
 <h3 align="center">A android developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duc-diep&label=Profile%20views&color=0e75b6&style=flat" alt="duc-diep" /> </p>
