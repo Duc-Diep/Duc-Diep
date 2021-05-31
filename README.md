@@ -21,6 +21,6 @@
 - [BatteryChecker](https://github.com/Duc-Diep/BatteryChecker)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duc-diep&show_icons=true&locale=en&layout=compact" alt="duc-diep" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duc-diep&show_icons=true&locale=en" alt="duc-diep" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=duc-diep&show_icons=true&locale=en" alt="duc-diep" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duc-diep&" alt="duc-diep" /></p>
