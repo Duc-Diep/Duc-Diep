@@ -19,7 +19,7 @@
 - [BookStore](https://github.com/Duc-Diep/BookStore)
 - [AppChat](https://github.com/Duc-Diep/AppChatWithFireBase)
 - [BatteryChecker](https://github.com/Duc-Diep/BatteryChecker)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duc-diep&show_icons=true&locale=en&layout=compact" alt="duc-diep" /></p>
+<p background = "black"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duc-diep&show_icons=true&locale=en&layout=compact" alt="duc-diep" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=duc-diep&show_icons=true&locale=en" alt="duc-diep" /></p>
 
