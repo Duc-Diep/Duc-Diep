@@ -24,5 +24,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duc-diep&langs_count=5&theme=merko)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duc-diep&show_icons=true&theme=merko)
 
-
+👯I am a sociable, easy-going person,I am happy to meet and connect with people.
 
