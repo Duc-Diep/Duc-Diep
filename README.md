@@ -19,7 +19,8 @@
 - [BookStore](https://github.com/Duc-Diep/BookStore)
 - [AppChat](https://github.com/Duc-Diep/AppChatWithFireBase)
 - [BatteryChecker](https://github.com/Duc-Diep/BatteryChecker)
-<p><img align="left" background-color="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=duc-diep&show_icons=true&locale=en&layout=compact" alt="duc-diep" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duc-diep)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=duc-diep&show_icons=true&locale=en" alt="duc-diep" /></p>
 
